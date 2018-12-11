@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=q1\ q2
+comment0.target=int\ compare(Query,\ Query)
+comment0.text=\r\n\ Comparar\ dos\ listas\r\n\ Funcion\ que\ compara\ si\ un\ numero\ es\ mayor\ que\ otro\r\n\ @param\ q1\ Primera\ consulta\ a\ comparar\r\n\ @param\ q2\ Segunda\ consulta\ a\ comparar\r\n\ @return\ LESS\ -1,\ EQUAL\ 0,\ GREATER\ 1\ \r\n
+numComments=1

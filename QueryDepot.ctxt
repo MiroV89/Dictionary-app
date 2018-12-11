@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ numQueries()
+comment0.text=@returns\ el\ n\u00FAmero\ de\ consultas\ diferentes\ almacenadas
+comment1.params=q
+comment1.target=int\ getFreqQuery(java.lang.String)
+comment1.text=@param\ el\ texto\ de\ la\ consulta
+comment2.params=prefix
+comment2.target=eped.ListIF\ listOfQueries(java.lang.String)
+comment2.text=@param\ el\ prefijo
+comment3.params=q
+comment3.target=void\ incFreqQuery(java.lang.String)
+comment3.text=@param\ el\ texto\ de\ la\ consulta
+comment4.params=q
+comment4.target=void\ decFreqQuery(java.lang.String)
+comment4.text=@param\ el\ texto\ de\ la\ consulta
+numComments=5
