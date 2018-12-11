@@ -1,4 +1,5 @@
-PROJECT TITLE: Dictionary app
-PURPOSE OF PROJECT: Data Structure (Computer Science UNED Spain)
-VERSION or DATE:2015
-AUTHORS: Miroslav Vladimirov
+# Dictionary app
+
+Use: Open package.bluej and execute "Principal" main class.
+
+This project use lists and tree to create a diccionary and make queries with the diferent data structures.
